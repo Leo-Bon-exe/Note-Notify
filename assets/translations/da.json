@@ -1,0 +1,16 @@
+{
+    "oldestSort":"Ældste",
+    "latestSort":"Seneste",
+    "allSort":"Hepsi",
+    "addNote":"Tilføj note",
+    "cancel":"Afbestille",
+    "done":"Færdig",
+    "note":"Not",
+    "searchHere":"Søg her",
+    "language":"Sprog",
+    "theme":"Tema",
+    "trash": "Skraldespand",
+    "notify":"Du har noter at huske",
+    "info":"Info",
+    "alarm": "For at modtage alarmer til tiden skal appen forblive i baggrunden og bør ikke afvises. Du kan låse den fra menuen, hvor du kan se alle de andre åbne apps, hvis dit Android-system understøtter at låse en app for ikke at blive afvist. hvis applikationen afvises ved en fejl eller af anden grund, skal du ikke bekymre dig om meddelelserne gemmes, de vil blive vist på meddelelseslinjen, så snart applikationen åbnes."
+}

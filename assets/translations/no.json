@@ -1,0 +1,16 @@
+{
+    "oldestSort":"Eldst",
+    "latestSort":"Siste",
+    "allSort":"Hepsi",
+    "addNote":"Legge til notat",
+    "cancel":"Avbryt",
+    "done":"Ferdig",
+    "note":"Not",
+    "searchHere":"Søk her",
+    "language":"Språk",
+    "theme":"Tema",
+    "trash": "Søppelbøtte",
+    "notify":"Du har notater å huske",
+    "info":"Info",
+    "alarm": "For å motta alarmer i tide, må appen holde seg i bakgrunnen og bør ikke avvises. Du kan låse den fra menyen der du kan se alle de andre åpne appene hvis Android-systemet ditt støtter å låse en app for ikke å bli avvist. hvis søknaden avvises ved en feiltakelse eller av andre grunner, ikke bekymre deg, varslene lagres, de vil vises på varslingslinjen så snart programmet åpnes."
+}

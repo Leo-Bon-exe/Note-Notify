@@ -1,0 +1,17 @@
+{
+    "oldestSort":"En eski",
+    "latestSort":"En yeni",
+    "allSort":"Hepsi",
+    "addNote":"Not Ekle",
+    "cancel":"İptal",
+    "done":"Tamam",
+    "note":"Not",
+    "searchHere":"Notunuzu Arayın",
+    "language":"Dil",
+    "theme":"Tema",
+    "trash": "Çöp Kutusu",
+    "notify":"Hatırlaman gereken notların var",
+    "info":"Bilgi",
+    "alarm": "Alarmları zamanında almak için uygulamanın arka planda kalması ve kapatılmaması gerekir. Android sisteminiz bir uygulamanın kapatılmaması için bir uygulamayı kilitlemeyi destekliyorsa, diğer tüm açık uygulamaları görebildiğiniz menüden kilitleyebilirsiniz. Uygulama yanlışlıkla veya başka bir nedenle arka plandan kapatılırsa, endişelenmeyin, bildirimler saklanır ve uygulama açılır açılmaz bildirim çubuğunda görüntülenir."
+}
+

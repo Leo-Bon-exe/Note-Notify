@@ -1,0 +1,16 @@
+{
+    "oldestSort":"tertua",
+    "latestSort":"Terbaru",
+    "allSort":"Hepsi",
+    "addNote":"Menambahkan catatan",
+    "cancel":"Membatalkan",
+    "done":"Selesai",
+    "note":"Not",
+    "searchHere":"Cari di sini",
+    "language":"Bahasa",
+    "theme":"Tema",
+    "trash": "Bak sampah",
+    "notify":"Anda memiliki catatan untuk diingat",
+    "info":"Informasi",
+    "alarm": "Untuk menerima alarm tepat waktu, aplikasi harus tetap berada di latar belakang dan tidak boleh ditutup. Anda dapat menguncinya dari menu di mana Anda dapat melihat semua aplikasi terbuka lainnya jika sistem android Anda mendukung untuk mengunci aplikasi agar tidak ditutup. jika aplikasi ditutup karena kesalahan atau karena alasan lain, jangan khawatir notifikasi disimpan, mereka akan ditampilkan di bilah notifikasi segera setelah aplikasi dibuka."
+}

@@ -1,0 +1,16 @@
+{
+    "oldestSort":"Il più antico",
+    "latestSort":"Ultimo",
+    "allSort":"Hepsi",
+    "addNote":"Aggiungi nota",
+    "cancel":"Annulla",
+    "done":"Fatto",
+    "note":"Not",
+    "searchHere":"Cerca qui",
+    "language":"Lingua",
+    "theme":"Tema",
+    "trash": "Cestino dei rifiuti",
+    "notify":"Hai delle note da ricordare",
+    "info":"Informazioni",
+    "alarm": "Per ricevere gli allarmi in tempo, l'app deve rimanere in background e non deve essere ignorata. Puoi bloccarlo dal menu in cui puoi vedere tutte le altre app aperte se il tuo sistema Android supporta il blocco di un'app per non essere eliminata. se la domanda viene respinta per errore o per qualsiasi altro motivo, non preoccuparti le notifiche vengono memorizzate, verranno visualizzate sulla barra delle notifiche non appena la domanda viene aperta."
+}

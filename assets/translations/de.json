@@ -1,0 +1,16 @@
+{
+    "oldestSort":"Älteste",
+    "latestSort":"Neueste",
+    "allSort":"Hepsi",
+    "addNote":"Notiz hinzufügen",
+    "cancel":"Absagen",
+    "done":"Fertig",
+    "note":"Not",
+    "searchHere":"Suche hier",
+    "language":"Sprache",
+    "theme":"Tema",
+    "trash": "Mülleimer",
+    "notify":"Sie haben Notizen, an die Sie sich erinnern müssen",
+    "info":"Info",
+    "alarm": "Um Alarme rechtzeitig zu erhalten, muss die App im Hintergrund bleiben und darf nicht geschlossen werden. Sie können es über das Menü sperren, in dem Sie alle anderen geöffneten Apps sehen können, wenn Ihr Android-System das Sperren einer App unterstützt, damit sie nicht geschlossen wird. Wenn die Anwendung versehentlich oder aus anderen Gründen geschlossen wird, machen Sie sich keine Sorgen, dass die Benachrichtigungen gespeichert werden. Sie werden in der Benachrichtigungsleiste angezeigt, sobald die Anwendung geöffnet wird."
+}

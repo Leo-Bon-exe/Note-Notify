@@ -1,0 +1,16 @@
+{
+    "oldestSort":"Nejstarší",
+    "latestSort":"Nejnovější",
+    "allSort":"Hepsi",
+    "addNote":"Přidat poznámku",
+    "cancel":"zrušení",
+    "done":"Hotovo",
+    "note":"Not",
+    "searchHere":"Hledej tady",
+    "language":"Jazyk",
+    "theme":"Tema",
+    "trash": "Odpadkový koš",
+    "notify":"Máte poznámky k zapamatování",
+    "info":"Info",
+    "alarm": "Chcete-li přijímat budíky včas, aplikace musí zůstat na pozadí a neměla by být zrušena. Můžete ji zamknout z nabídky, kde můžete vidět všechny ostatní otevřené aplikace, pokud váš systém Android podporuje uzamčení aplikace, aby nebyla zavřena. pokud je aplikace omylem nebo z jakéhokoli jiného důvodu zrušena, nebojte se, upozornění jsou uložena, zobrazí se na oznamovací liště ihned po otevření aplikace."
+}

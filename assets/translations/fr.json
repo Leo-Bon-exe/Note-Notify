@@ -1,0 +1,16 @@
+{
+    "oldestSort":"Le plus ancien",
+    "latestSort":"Dernier",
+    "allSort":"Hepsi",
+    "addNote":"Ajouter une note",
+    "cancel":"Annuler",
+    "done":"Fait",
+    "note":"Not",
+    "searchHere":"Cherche ici",
+    "language":"Langue",
+    "theme":"Tema",
+    "trash": "Poubelle",
+    "notify":"Vous avez des notes à retenir",
+    "info":"Info",
+    "alarm": "Pour recevoir les alarmes à temps, l'application doit rester en arrière-plan et ne doit pas être rejetée. Vous pouvez le verrouiller à partir du menu où vous pouvez voir toutes les autres applications ouvertes si votre système Android prend en charge le verrouillage d'une application pour ne pas être rejetée. si l'application est rejetée par erreur ou pour toute autre raison, ne vous inquiétez pas les notifications sont stockées, elles seront affichées sur la barre de notification dès l'ouverture de l'application."
+}

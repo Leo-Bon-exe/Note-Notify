@@ -1,0 +1,16 @@
+{
+    "oldestSort": "Oldest",
+    "latestSort": "Latest",
+    "allSort": "All",
+    "addNote": "Add Note",
+    "cancel": "Cancel",
+    "done": "Done",
+    "note": "Note",
+    "searchHere": "Search Here",
+    "language": "Language",
+    "theme": "Theme",
+    "trash": "Trash Bin",
+    "notify": "You have notes to remember",
+    "info":"Info",
+    "alarm": "To receive alarms on time, app needs to stay on background and should not to be dissmissed. You can lock it from the menu where you can see all the other open apps if your android system supports to lock an app for not be dismissed. if the application is dismissed by mistake or for any other reason, do not worry the notifications are stored, they will be displayed on the notification bar as soon as the application is opened."
+}

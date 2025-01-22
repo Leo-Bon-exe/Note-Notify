@@ -1,0 +1,16 @@
+{
+    "oldestSort":"Mais velho",
+    "latestSort":"Mais recentes",
+    "allSort":"Hepsi",
+    "addNote":"Adicionar nota",
+    "cancel":"Cancelar",
+    "done":"Feito",
+    "note":"Not",
+    "searchHere":"Procure aqui",
+    "language":"Linguagem",
+    "theme":"Tema",
+    "trash": "Lixeira",
+    "notify":"Você tem notas para lembrar",
+    "info":"Informações",
+    "alarm": "Para receber alarmes a tempo, o aplicativo precisa ficar em segundo plano e não deve ser dispensado. Você pode bloqueá-lo no menu onde você pode ver todos os outros aplicativos abertos se o seu sistema Android suportar bloquear um aplicativo para não ser descartado. se o aplicativo for indeferido por engano ou por qualquer outro motivo, não se preocupe as notificações ficam armazenadas, elas serão exibidas na barra de notificação assim que o aplicativo for aberto."
+}
